@@ -1,7 +1,7 @@
 name: DeployAzureFunction
 variables:
-  FunctionAppName: 'FuncImportant'
-  AzureConnection: 'MPN'
+  FunctionAppName: 'FeatureFlagApi'
+  AzureConnection: 'ASP-FeatureFlagApi-9817'
   ResourcegGroupName: 'MyResoureGroup'
 
 trigger:
