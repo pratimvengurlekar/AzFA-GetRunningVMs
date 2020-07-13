@@ -1,8 +1,8 @@
 name: DeployAzureFunction
 variables:
-  FunctionAppName: 'FeatureFlagApi'
-  AzureConnection: 'ASP-FeatureFlagApi-9817'
-  ResourcegGroupName: 'MyResoureGroup'
+  FunctionAppName: 'function2610'
+  AzureConnection: 'function-deploy-powershell'
+  ResourcegGroupName: 'myrg'
 
 trigger:
   branches:
